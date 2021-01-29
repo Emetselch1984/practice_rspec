@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa00e51c-cba5-45d4-a106-cb5c622ff3f8" name="デフォルト変更リスト" comment="" />
+    <list default="true" id="aa00e51c-cba5-45d4-a106-cb5c622ff3f8" name="デフォルト変更リスト" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.generators" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test_user.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test_user.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,9 +45,10 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="bundle install" />
+      <command value="rails g model user name email" />
     </option>
   </component>
-  <component name="RunManager" selected="Rails.Development: test_user">
+  <component name="RunManager" selected="Rake.spec: test_user">
     <configuration name="Development: test_user" type="RailsRunConfigurationType" factoryName="Rails">
       <module name="test_user" />
       <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
@@ -135,16 +157,68 @@
       <option name="presentableId" value="Default" />
       <updated>1611958414642</updated>
       <workItem from="1611958415818" duration="629000" />
+      <workItem from="1611959275012" duration="1265000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="505" y="255" width="670" height="675" key="run.anything.popup" timestamp="1611958472239">
+    <state width="1638" height="286" key="GridCell.Tab.0.bottom" timestamp="1611959739327">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="255" width="670" height="675" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1611958472239" />
+    <state width="1638" height="286" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1611959739327" />
+    <state width="1638" height="286" key="GridCell.Tab.0.center" timestamp="1611959739326">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="286" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1611959739326" />
+    <state width="1638" height="286" key="GridCell.Tab.0.left" timestamp="1611959739325">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="286" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1611959739325" />
+    <state width="1638" height="286" key="GridCell.Tab.0.right" timestamp="1611959739326">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="286" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1611959739326" />
+    <state x="650" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611960015444">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="650" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1611960015444" />
+    <state x="505" y="255" width="670" height="675" key="run.anything.popup" timestamp="1611959372171">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="255" width="670" height="675" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1611959372171" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test_user@spec__test_user.rcov" NAME="spec: test_user Coverage Results" MODIFIED="1611959734987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test_user" />
   </component>
 </project>
