@@ -17,11 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa00e51c-cba5-45d4-a106-cb5c622ff3f8" name="デフォルト変更リスト" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.generators" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/test_user.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test_user.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +25,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nlIn779eu6xPprKjmcKWxSovL1" />
@@ -157,7 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611958414642</updated>
       <workItem from="1611958415818" duration="629000" />
-      <workItem from="1611959275012" duration="1265000" />
+      <workItem from="1611959275012" duration="1648000" />
     </task>
     <servers />
   </component>
@@ -191,8 +200,32 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="100" y="128" width="1480" height="822" key="DiffContextDialog" timestamp="1611960925063">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="128" width="1480" height="822" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611960925063" />
     <state width="1638" height="286" key="GridCell.Tab.0.bottom" timestamp="1611959739327">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
