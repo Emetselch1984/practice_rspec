@@ -6,10 +6,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa00e51c-cba5-45d4-a106-cb5c622ff3f8" name="デフォルト変更リスト" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/test_user.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test_user.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/blog.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/blog.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/rails_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/rails_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/factories/blogs.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/factories/blogs.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/models/blog_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/models/blog_spec.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +178,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611958414642</updated>
       <workItem from="1611958415818" duration="629000" />
-      <workItem from="1611959275012" duration="6045000" />
+      <workItem from="1611959275012" duration="8450000" />
     </task>
     <servers />
   </component>
@@ -193,6 +197,31 @@
                     <value>
                       <list>
                         <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
                       </list>
                     </value>
                   </entry>
@@ -228,6 +257,7 @@
     <option name="OPEN_GENERIC_TABS">
       <map>
         <entry key="1" value="TOOL_WINDOW" />
+        <entry key="2" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="RECENT_FILTERS">
@@ -252,42 +282,42 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="128" width="1480" height="822" key="DiffContextDialog" timestamp="1611961545156">
+    <state x="100" y="128" width="1480" height="822" key="DiffContextDialog" timestamp="1611967394450">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="100" y="128" width="1480" height="822" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611961545156" />
-    <state width="1638" height="352" key="GridCell.Tab.0.bottom" timestamp="1611966168036">
+    <state x="100" y="128" width="1480" height="822" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611967394450" />
+    <state width="1638" height="286" key="GridCell.Tab.0.bottom" timestamp="1611967674457">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="352" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168036" />
-    <state width="1638" height="352" key="GridCell.Tab.0.center" timestamp="1611966168035">
+    <state width="1638" height="286" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1611967674457" />
+    <state width="1638" height="286" key="GridCell.Tab.0.center" timestamp="1611967674455">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="352" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168035" />
-    <state width="1638" height="352" key="GridCell.Tab.0.left" timestamp="1611966168034">
+    <state width="1638" height="286" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1611967674455" />
+    <state width="1638" height="286" key="GridCell.Tab.0.left" timestamp="1611967674455">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="352" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168034" />
-    <state width="1638" height="352" key="GridCell.Tab.0.right" timestamp="1611966168035">
+    <state width="1638" height="286" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1611967674455" />
+    <state width="1638" height="286" key="GridCell.Tab.0.right" timestamp="1611967674456">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="352" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168035" />
-    <state width="1638" height="352" key="GridCell.Tab.1.bottom" timestamp="1611966168038">
+    <state width="1638" height="286" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1611967674456" />
+    <state width="1638" height="286" key="GridCell.Tab.1.bottom" timestamp="1611967662186">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="352" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168038" />
-    <state width="1638" height="352" key="GridCell.Tab.1.center" timestamp="1611966168037">
+    <state width="1638" height="286" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1611967662186" />
+    <state width="1638" height="286" key="GridCell.Tab.1.center" timestamp="1611967662185">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="352" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168037" />
-    <state width="1638" height="352" key="GridCell.Tab.1.left" timestamp="1611966168036">
+    <state width="1638" height="286" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1611967662185" />
+    <state width="1638" height="286" key="GridCell.Tab.1.left" timestamp="1611967662184">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="352" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168036" />
-    <state width="1638" height="352" key="GridCell.Tab.1.right" timestamp="1611966168037">
+    <state width="1638" height="286" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1611967662184" />
+    <state width="1638" height="286" key="GridCell.Tab.1.right" timestamp="1611967662186">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="352" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168037" />
+    <state width="1638" height="286" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1611967662186" />
     <state width="1638" height="352" key="GridCell.Tab.2.bottom" timestamp="1611966168039">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -304,14 +334,14 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="352" key="GridCell.Tab.2.right/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168039" />
-    <state x="643" y="277" key="VcsDiffUtil.ChangesDialog" timestamp="1611961540795">
+    <state x="0" y="0" width="840" height="1050" key="VcsDiffUtil.ChangesDialog" timestamp="1611967029578">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="643" y="277" key="VcsDiffUtil.ChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611961540795" />
-    <state x="100" y="128" width="1480" height="822" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1611961545157">
+    <state x="0" y="0" width="840" height="1050" key="VcsDiffUtil.ChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611967029578" />
+    <state x="100" y="128" width="1480" height="822" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1611966994689">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="100" y="128" width="1480" height="822" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611961545157" />
+    <state x="100" y="128" width="1480" height="822" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611966994689" />
     <state x="100" y="128" width="1480" height="822" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1611961545157">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -320,13 +350,17 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="650" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1611960015444" />
+    <state x="621" y="387" key="git4idea.ui.GitTagDialog" timestamp="1611966977185">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="621" y="387" key="git4idea.ui.GitTagDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611966977185" />
     <state x="505" y="255" width="670" height="675" key="run.anything.popup" timestamp="1611959372171">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="505" y="255" width="670" height="675" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1611959372171" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/test_user@spec__test_user.rcov" NAME="spec: test_user Coverage Results" MODIFIED="1611963366970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test_user" />
-    <SUITE FILE_PATH="coverage/test_user@Development__test_user.rcov" NAME="Development: test_user Coverage Results" MODIFIED="1611966142269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test_user" />
+    <SUITE FILE_PATH="coverage/test_user@spec__test_user.rcov" NAME="spec: test_user Coverage Results" MODIFIED="1611967662166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test_user" />
+    <SUITE FILE_PATH="coverage/test_user@Development__test_user.rcov" NAME="Development: test_user Coverage Results" MODIFIED="1611967624899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test_user" />
   </component>
 </project>

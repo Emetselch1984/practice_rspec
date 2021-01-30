@@ -3,4 +3,5 @@ class User < ApplicationRecord
   validates :email, presence: true,uniqueness: true,length: { in: 5..100 },
             format: { with: /\A[\w.-@]+\z/,
                       message: "英文字と.-@のみが使えます" }
+  has_many :blogs,dependent: :destroy
 end

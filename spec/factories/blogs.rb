@@ -1,6 +1,8 @@
 FactoryBot.define do
-  factory :customer do
+  factory :blog do
     title {"foo"}
     body {"bar"}
+    association :user,
+                factory: :user
   end
 end
