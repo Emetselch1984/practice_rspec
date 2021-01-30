@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <expand />
+    <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa00e51c-cba5-45d4-a106-cb5c622ff3f8" name="デフォルト変更リスト" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/blog.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/blog.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/rails_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/rails_helper.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +32,17 @@
     </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="ProjectId" id="1nlIn779eu6xPprKjmcKWxSovL1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="追加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,6 +51,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RunAnythingCache">
@@ -57,7 +65,7 @@
       <command value="rails g model user name email" />
     </option>
   </component>
-  <component name="RunManager" selected="Rake.spec: test_user">
+  <component name="RunManager" selected="Rails.Development: test_user">
     <configuration name="Development: test_user" type="RailsRunConfigurationType" factoryName="Rails">
       <module name="test_user" />
       <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
@@ -166,7 +174,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611958414642</updated>
       <workItem from="1611958415818" duration="629000" />
-      <workItem from="1611959275012" duration="1648000" />
+      <workItem from="1611959275012" duration="6045000" />
     </task>
     <servers />
   </component>
@@ -176,6 +184,23 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -200,6 +225,11 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -222,26 +252,70 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="128" width="1480" height="822" key="DiffContextDialog" timestamp="1611960925063">
+    <state x="100" y="128" width="1480" height="822" key="DiffContextDialog" timestamp="1611961545156">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="100" y="128" width="1480" height="822" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611960925063" />
-    <state width="1638" height="286" key="GridCell.Tab.0.bottom" timestamp="1611959739327">
+    <state x="100" y="128" width="1480" height="822" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611961545156" />
+    <state width="1638" height="352" key="GridCell.Tab.0.bottom" timestamp="1611966168036">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="286" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1611959739327" />
-    <state width="1638" height="286" key="GridCell.Tab.0.center" timestamp="1611959739326">
+    <state width="1638" height="352" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168036" />
+    <state width="1638" height="352" key="GridCell.Tab.0.center" timestamp="1611966168035">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="286" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1611959739326" />
-    <state width="1638" height="286" key="GridCell.Tab.0.left" timestamp="1611959739325">
+    <state width="1638" height="352" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168035" />
+    <state width="1638" height="352" key="GridCell.Tab.0.left" timestamp="1611966168034">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="286" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1611959739325" />
-    <state width="1638" height="286" key="GridCell.Tab.0.right" timestamp="1611959739326">
+    <state width="1638" height="352" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168034" />
+    <state width="1638" height="352" key="GridCell.Tab.0.right" timestamp="1611966168035">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="286" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1611959739326" />
+    <state width="1638" height="352" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168035" />
+    <state width="1638" height="352" key="GridCell.Tab.1.bottom" timestamp="1611966168038">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="352" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168038" />
+    <state width="1638" height="352" key="GridCell.Tab.1.center" timestamp="1611966168037">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="352" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168037" />
+    <state width="1638" height="352" key="GridCell.Tab.1.left" timestamp="1611966168036">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="352" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168036" />
+    <state width="1638" height="352" key="GridCell.Tab.1.right" timestamp="1611966168037">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="352" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168037" />
+    <state width="1638" height="352" key="GridCell.Tab.2.bottom" timestamp="1611966168039">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="352" key="GridCell.Tab.2.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168039" />
+    <state width="1638" height="352" key="GridCell.Tab.2.center" timestamp="1611966168039">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="352" key="GridCell.Tab.2.center/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168039" />
+    <state width="1638" height="352" key="GridCell.Tab.2.left" timestamp="1611966168038">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="352" key="GridCell.Tab.2.left/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168038" />
+    <state width="1638" height="352" key="GridCell.Tab.2.right" timestamp="1611966168039">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="352" key="GridCell.Tab.2.right/0.0.1680.1050@0.0.1680.1050" timestamp="1611966168039" />
+    <state x="643" y="277" key="VcsDiffUtil.ChangesDialog" timestamp="1611961540795">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="643" y="277" key="VcsDiffUtil.ChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611961540795" />
+    <state x="100" y="128" width="1480" height="822" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1611961545157">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="128" width="1480" height="822" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611961545157" />
+    <state x="100" y="128" width="1480" height="822" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1611961545157">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="128" width="1480" height="822" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611961545157" />
     <state x="650" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611960015444">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -252,6 +326,7 @@
     <state x="505" y="255" width="670" height="675" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1611959372171" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/test_user@spec__test_user.rcov" NAME="spec: test_user Coverage Results" MODIFIED="1611959734987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test_user" />
+    <SUITE FILE_PATH="coverage/test_user@spec__test_user.rcov" NAME="spec: test_user Coverage Results" MODIFIED="1611963366970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test_user" />
+    <SUITE FILE_PATH="coverage/test_user@Development__test_user.rcov" NAME="Development: test_user Coverage Results" MODIFIED="1611966142269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test_user" />
   </component>
 </project>
